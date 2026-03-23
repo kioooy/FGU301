@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://bybjiu5ql6dsl"
+path="res://.godot/imported/Kim Lightyear - Leave The World Tonight (Chiptune Edit Loop).mp3-bb5e073a90c33da09a9310be8c491649.mp3str"
+
+[deps]
+
+source_file="res://GitHub/Game2d/Assets/Music/Kim Lightyear - Leave The World Tonight (Chiptune Edit Loop).mp3"
+dest_files=["res://.godot/imported/Kim Lightyear - Leave The World Tonight (Chiptune Edit Loop).mp3-bb5e073a90c33da09a9310be8c491649.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

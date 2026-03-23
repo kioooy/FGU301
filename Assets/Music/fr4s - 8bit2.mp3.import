@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dwl14t0kimbne"
+path="res://.godot/imported/fr4s - 8bit2.mp3-44e768ff90a1bf899c86204d2f652e94.mp3str"
+
+[deps]
+
+source_file="res://GitHub/Game2d/Assets/Music/fr4s - 8bit2.mp3"
+dest_files=["res://.godot/imported/fr4s - 8bit2.mp3-44e768ff90a1bf899c86204d2f652e94.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ee7b615410eb2c43854cd42dea5db55, type: 3}
+  m_Name: SoundData
+  m_EditorClassIdentifier: Assembly-CSharp::SoundData
+  bgmClips:
+  - {fileID: 8300000, guid: 033766cc31c97904bae4404b8a079544, type: 3}
+  - {fileID: 8300000, guid: fc5af015011ea3745b7f78ea1dd1049f, type: 3}
+  - {fileID: 8300000, guid: 559c232a43caebe41870ce54786f604e, type: 3}
+  - {fileID: 8300000, guid: 51a4f1157b7ff1449b5e5cf064d584c7, type: 3}
+  - {fileID: 8300000, guid: 06906d718be5b6a4cb2df8732bf39832, type: 3}
+  - {fileID: 8300000, guid: 89f935015cc98724a862a586326fdf21, type: 3}
+  - {fileID: 8300000, guid: 0ad591428b0c18c4da51fe3bf98dbc63, type: 3}
+  - {fileID: 8300000, guid: bef0cef2ded0f0645ad90c6e5bdd4965, type: 3}
+  - {fileID: 8300000, guid: 35967e8a4dfb1664e9b066939272c0a4, type: 3}
+  - {fileID: 8300000, guid: 1f2ad53bacc245642854dbdc8ea71a9b, type: 3}
+  bgmVolume: 0.4
+  towerShootClip: {fileID: 8300000, guid: 406d6ff8ac8843e40a47aa933ac7ebaa, type: 3}
+  enemyDeathClip: {fileID: 8300000, guid: 1a6d63a4ad5921848895a917f49ddc52, type: 3}
+  livesLostClip: {fileID: 8300000, guid: f5c5f438581b89c4b96789e177c6254a, type: 3}
+  coinRewardClip: {fileID: 8300000, guid: c94b4a2391fa3a74c88adad21f78d7a4, type: 3}
+  towerPlacedClip: {fileID: 8300000, guid: 6c96f17621974ab469d71b6645c210ae, type: 3}
+  towerUpgradedClip: {fileID: 8300000, guid: babe46ca2616ae849a1af3f84634049f, type: 3}
+  towerSoldClip: {fileID: 8300000, guid: 44766caa059435f4fb71af84b2bea7e4, type: 3}
+  notEnoughCoinsClip: {fileID: 8300000, guid: e759c65f76c80834abc572593f946008, type: 3}
+  waveStartClip: {fileID: 8300000, guid: 245965889d0a183438ef3478b27122c0, type: 3}
+  waveCountdownClip: {fileID: 8300000, guid: 9d0113dd16699ce4ea3c58dd422fdc1f, type: 3}
+  victoryClip: {fileID: 8300000, guid: fe582a0394cfd654eac0f14022c040af, type: 3}
+  gameOverClip: {fileID: 8300000, guid: 0beea53ef4a74634ea0f2f3a46263f7d, type: 3}
+  buttonClickClip: {fileID: 8300000, guid: 818ceeca65489e14ab6864f21ac80fd5, type: 3}
+  sfxVolume: 1

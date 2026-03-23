@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bb86df09aad5624bb5a15e286cc9cee, type: 3}
+  m_Name: Archery Tower
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  range: 3.8
+  shootinterval: 1
+  projectileSpeed: 15
+  projectileDuration: 3
+  damage: 30
+  cost: 100
+  sprite: {fileID: -7690627026698973308, guid: a5edf2f1db6d806458a8921b507facc1, type: 3}
+  prefab: {fileID: 722049293731623241, guid: b31ae0522f43b7549bf4249b36c8a6b1, type: 3}
